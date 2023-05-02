@@ -1,0 +1,8 @@
+c:\users\gotti\documents\visual studio 2015\Projects\Marksheet\Marksheet\bin\Debug\Marksheet.exe.config
+c:\users\gotti\documents\visual studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.csprojResolveAssemblyReference.cache
+c:\users\gotti\documents\visual studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.Form1.resources
+c:\users\gotti\documents\visual studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.Form2.resources
+c:\users\gotti\documents\visual studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.Properties.Resources.resources
+c:\users\gotti\documents\visual studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.GenerateResource.Cache
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.csprojAssemblyReference.cache
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
